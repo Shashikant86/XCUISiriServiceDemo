@@ -13,7 +13,7 @@ This is a demo project which shows interactions with XCUI Tests with Siri.
 You can clone the repo and run tests in Xcode by pressing CMD + U 
 
               $ git clone https://github.com/Shashikant86/XCUISiriServiceDemo/
-              $ cd XCUISiri.xcodeproj
+              $ cd XCUISiriServiceDemo
               $ open XCUISiri.xcodeproj
 
 Now you can press CMD+U 
